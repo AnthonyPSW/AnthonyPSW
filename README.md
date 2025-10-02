@@ -1,8 +1,6 @@
 <h1 align="center">¡Hola! 👋 Soy Anthony Punina</h1>
 
-<a target="_blank" href="https://github.com/anthony-punina">
-  <img src="https://github.com/anthony-punina/anthony-punina/blob/main/banner.png"/>
-</a>
+
 
 <p align="center">
 	<a href="https://github.com/anthony-punina">
