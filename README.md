@@ -4,7 +4,7 @@
 
 <p align="center">
 	<a href="https://github.com/anthony-punina">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Desarrollador+Fullstack;React%20|%20NestJS%20|%20MySQL;Docker%20%7C%20GitHub+Actions;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas&center=true&width=480&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Desarrollador+Fullstack;React%20|%20NestJS%20|%20MySQL;Git%20%7C%20GitHub+Actions;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas&center=true&width=480&height=45">
 	</a>
 </p>
 
