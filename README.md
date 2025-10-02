@@ -13,7 +13,7 @@
 📚 Apasionado por el desarrollo web Fullstack
 🔭 Experiencia con React (frontend), NestJS (backend) y MySQL (base de datos)
 🌱 Enfocado en aprender Docker, despliegue en la nube y microservicios
-🌟 Lenguajes principales: JavaScript, TypeScript, SQL
+🌟 Lenguajes principales: Java, TypeScript, SQL
 🚩 Objetivo: crecer como Desarrollador Fullstack y aplicar soluciones innovadoras
 </pre>
 
@@ -46,6 +46,3 @@
 </p>
 
 ---
-
-[Anthony-Punina](https://github.com/anthony-punina)  
-✨ Última actualización: 02/10/2025
