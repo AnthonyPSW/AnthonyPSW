@@ -52,6 +52,23 @@ Me especializo en el desarrollo <b>Fullstack</b>, combinando la lógica del back
 
 </div>
 
+
+---
+
+
+<h2 align="center">📊 Estadísticas de GitHub</h2>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnthonyPSW&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyPSW&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+
+
+---
+
 <h2 align="center">📫 ¡Ponte en contacto!</h2>
 
 <p align="center">
